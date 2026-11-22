@@ -1,7 +1,8 @@
 ---
 title: "Iron & Marrow"
 ---
-![Iron & Marrow](images/banner.jpg)
+
+![Iron & Marrow](images/banner.jpeg)
 
 
 Welcome to the home of **Iron & Marrow**, a tabletop roleplaying game of high fantasy realism, grimdark stakes and small motes of hope, and its companion skirmish game, the **Arena Combat Game**.
