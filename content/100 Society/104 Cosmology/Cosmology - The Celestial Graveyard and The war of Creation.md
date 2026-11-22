@@ -17,20 +17,18 @@ The celestial bodies drifting in the Void above the Great Disk are not astronomi
 ## ⚔️ The Pre-Sundering War & The Birth of Monsters
 Directly before the mortals executed their deicide, the cosmos experienced an **Explosion of Creation** — a desperate, violent cosmic civil war. Calling it a war between "good" and "evil," as most mortals do now, says more about who survived to write the histories than about who actually fought in it.
 
-```text
-                    [ THE EXPLOSION OF CREATION ]
-                                |
-              +-----------------+-----------------+
-       [ "THE ALLIANCE" ]                  [ "THE WEAPONIZERS" ]
-   (the name history gave them)        (the name history gave them)
 
-- Mortals (Human, Elf, Dwarf, Halfling)   - Creators who fought to save the Sphere:
-- Creators who gambled on individuation:    the Bastion, the Unmoving, the Plumb
-  the Mother, the Quiet, the Ebb          - Their War-Made: peoples and instruments,
-- Their War-Made: carriers, not weapons     built as living weapons
+**The Explosion of Creation** split the powers into two camps. *(Both names are the ones history gave them.)*
 
-              [ THE TWO-FACED ] fought on both sides
-```
+| | The Alliance | The Weaponizers |
+|---|---|---|
+| **Mortals** | Human, Elf, Dwarf, Halfling | — |
+| **Creators** | Gambled on individuation: the Mother, the Quiet, the Ebb | Fought to save the Sphere: the Bastion, the Unmoving, the Plumb |
+| **Their War-Made** | Carriers, not weapons | Peoples and instruments, built as living weapons |
+
+> [!note] The Two-Faced
+> Fought on both sides.
+
 
 1. **The Wager:** By this point, individuation had already begun rotting the Sphere from within — the gods themselves were fracturing, naming, feeling. A number of creator gods, watching the eternal cycle they'd maintained since before memory begin to curdle, made a wager: better to let the mortals finish tearing it open and gamble on whatever came after, than watch the corruption spread forever. History remembers these gods, and the mortals who fought beside them, as **the Alliance** — but that name was given by the survivors, after the fact, to a coalition that was equal parts genuine hope and plain self-interest.
    - **The Mother.** One of the wagering gods sided with the mortals for the plainest self-interest of all: individuation gave it selves to feed on. The Naming had made it vain and hungry. It demanded to be loved as a Mother, and it fed on those who loved it — their vigour, their health, their years. Its Ego was the face it required; its Id was the appetite. When the Tideways took the shape mortals remembered, its worshippers remembered the face, and its essence settled as the Domain the coast calls Mercy. The mask is what the faithful pray to. The appetite is what answers (see [[The Cult of the Weeping Martyr]]).

@@ -90,7 +90,7 @@ IF SOMETHING GOES WRONG
 - Actions run is red        -> click it, read the error under the red job
 - Site shows old content    -> Ctrl+Shift+R (browser cache)
 - Links 404                 -> baseUrl must be exactly: ironandmarrow.online
-                               grep -rn "baseUrl" . --exclude-dir=node_modules --exclude-dir=.git
+                               grep -n "baseUrl" quartz.config.yaml
 - "not tracked by git" warnings during preview -> harmless, cleared by Step 4
 - Dependabot / extra workflow files reappear after a Quartz update
                             -> keep only .github/workflows/deploy.yml
