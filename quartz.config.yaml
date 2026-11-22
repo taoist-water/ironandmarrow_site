@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: taoist-water/ironandmarrow_site.git
+  baseUrl: taoist-water/ironandmarrow_site
   ignorePatterns:
     - private
     - templates
