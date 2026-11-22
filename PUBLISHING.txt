@@ -48,6 +48,7 @@ index.md, images/ or arena/.
 # No trailing slash after Arena_combat_game — keeps the folder name on the site.
 rsync -av --delete \
   --exclude='.obsidian/' \
+  --exclude='.git/' \
   "$HOME/Arena_combat_game" \
   content/arena/
 
