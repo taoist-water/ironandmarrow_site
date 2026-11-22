@@ -1,0 +1,63 @@
+# Religion: The Pagan Pantheon & Faith Domains
+#mechanics/magic #lore/religion #status/solid
+
+> "The cosmos doesn't listen to us. So we pray to the dead men and women who figured out how to force the cosmos to bend." — Master Cartographer Vaelen
+
+## 🏛️ The Nature of Faith in Austhal
+Religion across the Whispering Coast is deeply paganistic. The cults pray to **Domains** — Law, Death, the Sea, Mercy, and the rest — through the saints and paragons who once bent them. What a Domain *is* depends on which cult you ask. To the Zenith it is order itself; to the Tidespoken it is the Brine Mother; to the Ashen Veil it is the quiet that waits for everyone. Some of the faithful call the Domains gods, and some would call that blasphemy. **Nobody disputes the miracles.** Prayer works, and for most of the faithful that settles the question.
+- **The Saints and Paragons:** The cults teach that no mortal mind can hold a Domain whole, so the faithful pray to the historical figures who once bent one — saints, military martyrs, cynical prophets, and in one case a wave. The saint is the door; the Domain is the room.
+- **The Mechanics (GM-facing):** A priest's Faith is not a shield against chaotic energy; it is borrowed authority. The priest invokes the name and deed of a saint and draws on the Domain's current through it, and the current takes its price from the body (ruleset, Embracing the Abyss, *Faith*).
+
+> **GM-facing.** The Creators are dead. What answers a prayer is a Domain: a specific current of shattered essence, drawn from all through the Tideways rather than sorted neatly into the High Reach or the Undertow (see [[Cosmology - The Great Fracture]]). But the "gods" the faithful pray to are not nothing. Mortal belief gave each Domain a face, and the face rose and took form — the Reach share (see [[Cosmology - The Celestial Graveyard and The war of Creation#🌗 The Three Shares|The Three Shares]]). It can gather, listen and now and then answer back, and it is what the ruleset calls a priest's patron. The miracles are real; every cult's explanation of them is its own. The one Creator remnant that speaks with a voice of its own is in the south — see [[The Twelgorn Kingdom]].
+
+> **GM-facing — priests no current claims.** Most priests are claimed: bound to one Domain for good and blessed by it (the ruleset's Covenant). Two kinds are not. A **heretic** prays to several Domains and is held by none of them, so every prayer is a fresh persuasion, and harder for it (the Heretic's Path). A **ritualist** knows the forms and says them correctly, and the current answers the forms and never the person: never by name, and never past the first prayers (the Ritualist). Their miracles are as real as anyone's. *(Ruleset: The Marrow, Divine Conduit and Ritualist.)*
+
+---
+
+## 1. The Domain of Strategy (The Cult of the Iron Horizon)
+- **The Paragon:** *Saint Senecus the Unyielding*
+- **The Lore:** Senecus was an ancient military philosopher who held a doomed mountain pass against a horde of aberrant monstrous races. He taught that true victory isn't survival, but the stoic adherence to tactical duty regardless of the odds. 
+- **Flavor/Trappings:** Polished iron shields, clean-cut discipline. Prayers are recited as short, pragmatic tactical maxims.
+- **See:** [[The Cult of the Iron Horizon]] — the Held Pass, Maxim Night and the Relief.
+
+
+## 2. The Domain of Trickery (The Cult of the Crooked Coin)
+- **The Paragon:** *Rook's Folly (The Grinning Prophet)*
+- **The Lore:** Rook wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The empire never recovered, and its nobles fled across the Broken Ocean to settle the Whispering Coast — so the faithful say the coast exists because Rook laughed. The [[The Cobalt Feather Syndicate|Cobalt Feather]] reveres him as the patron of outsmarting rigged systems.
+- **Flavor/Trappings:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck. Devotees hear laughter when the con lands, and take it for Rook's.
+- **See:** [[The Cult of the Crooked Coin]] — the Crooked Tally, Coin-in-the-Mud, and the Struck City.
+
+
+## 3. The Domain of Law (The Cult of the Zenith)
+- **The Paragon:** *Aurelius the Architect*
+- **The Lore:** Aurelius was an ancient, brutal warlord who united the early human tribes by writing the first Meditations on Law—a rigid, uncompromising text that dictated society must be ordered, and chaos must be purged by fire. He is the ultimate idol of the High Quarter.
+- **Flavor/Trappings:** Heavy comet pendants, unyielding loud booming scripture. Prayers are backed by thunderclaps and searing white light.
+
+
+## 4. The Domain of Death (The Cult of the Ashen Veil)
+- **The Paragon:** *Vael the Mute*
+- **The Lore:** Vael was a grave-keeper who survived the horrific aftermath of the pre-sundering wars. He taught a philosophy of absolute pessimism—that life is merely a loud, painful interruption of the peaceful void, and death is the ultimate mercy to be respected, not feared.
+- **Flavor/Trappings:** Black hooded raiment, stark quiet expressions. Prayers manifest as chilling quietude and falling feathers.
+- **See:** [[The Cult of the Ashen Veil]] — Featherfall, the Quiet Hour, the Pauper's Procession and the Long Carry.
+
+
+## 5. The Domain of Winter & Wilds (The Cult of the Rime-Fang)
+- **The Paragon:** *Kaelen the Survivor*
+- **The Lore:** A tribal matriarch from the deepest winters of the north who supposedly hunted a primordial winter-drake with nothing but an iron spear and her bare teeth. She embodies the raw, animalistic grit required to survive when civilization fails.
+- **Flavor/Trappings:** Heavy white wolf pelts, frosted breath. Prayers manifest as freezing howling wind and ice.
+- **See:** [[The Cult of the Rime-Fang]] — the Rime Hunt, Bare-Teeth Night and Pilgrim's Notch.
+
+
+## 6. The Domain of Mercy & Healing (The Cult of the Weeping Martyr)
+- **The Paragon:** *Mother Elara of the Mud*
+- **The Lore:** During a massive plague in the early days of Port Nevarellon, in the reign of the kings, Elara was a destitute woman who walked into the quarantine zones. It is said she systematically absorbed the rot from the dying into her own body, enduring unimaginable agony so others could live. Her body was never recovered; the faithful say she was taken into Mercy.
+- **Flavor/Trappings:** Plain white habits, dove pendants. Prayers manifest as golden tears and warm glowing auras — the healer weeps gold as the pain passes into her.
+- **See:** [[The Cult of the Weeping Martyr]] — the House of Mercy, Elara's Walk, and the Taking-On.
+
+
+## 7. The Domain of the Sea & Storms (The Tidespoken Clergy)
+- **The Paragon:** *Thalass's Omen*
+- **The Lore:** Thalass was not a person, but an apocalyptic rogue wave that destroyed an entire fleet of the old king's armada. The Tidespoken revere this natural disaster as the ultimate proof that the ocean is the true sovereign of the world, and they seek to align themselves with its crushing power.
+- **Flavor/Trappings:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
+- **See:** [[The Tidespoken Clergy]] — the Brine Mother, the kitchens, and Thalass in the last year of the Civil War.
+

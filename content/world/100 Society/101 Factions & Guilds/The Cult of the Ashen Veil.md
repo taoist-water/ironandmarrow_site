@@ -1,0 +1,104 @@
+# Faction: The Cult of the Ashen Veil
+#faction/legal #lore/religion #status/draft
+
+> "Everyone gets there. We only see that nobody arrives alone, or on a dung-cart." — a grave-keeper at the Pauper's Procession
+
+> "They come in with an empty litter and go out with a full one. They never ask us for bread. We give it them anyway." — a Scar-Holder at Ashenford
+
+---
+
+## 🏛️ Overview
+- **Domain:** Death (see [[Religion - The Pagan Pantheon and the Faith Domains]]).
+- **Paragon:** **Vael the Mute.**
+- **Type:** A burial order. Its **grave-keepers** put down the coast's dead, and that is nearly the whole of the faith. They keep no temple; the burial grounds are their house.
+- **Its head:** **the Mute**, the eldest grave-keeper, sworn to silence for life on taking the office. The Mute leads by sign, and the grave-keepers read it. *(Name to be set.)*
+- **Where it is kept:**
+  - **Port Nevarellon** — the burial grounds and paupers' pits beyond the landward wall, downwind of the Slips (see [[The Foundry Slips]]).
+  - **Every parish on the coast.** Featherfall is the coast's common burial, and in all four standing duchies the dead go to the Veil, whatever the living kept. The exception is the Tidespoken faithful, who are given to the ebb (see [[The Tidespoken Clergy]]).
+  - **The Scar's edge**, for the Long Carry (see [[Duchy of Corvus]]).
+  - **The road.** The Post-Walkers go wherever the dead were buried without a keeper: the wild inland, the marsh-edge, and beyond the coast across the known world (see *The Post-Walk*, below).
+  - **The Corvus refugees** of Cinder Row. **Maryn Aske** of the Seven was theirs.
+- **Trappings:** black hooded raiment and quiet faces. Prayers manifest as a chilling quiet and falling feathers.
+
+---
+
+## 🪶 What the Faithful Believe
+- **Vael** was a grave-keeper who lived through the horrors after the oldest wars and buried what they left. He took a vow of silence and kept it until he died. His teaching came down through his keepers in signs: **life is a loud, painful interruption of the quiet, and death is a mercy — to be respected, not feared.**
+- **Not hastened.** The Veil hurry no one. A grave-keeper who did would be put out of the Veil, and buried without feathers.
+- **The dead go up.** The Veil say the quiet is the road to the High Reach, and their work is to see the dead set on it gently — with feathers, because feathers fall gently.
+- **A Wretch is a death the place will not release.** Releasing it is the Veil's duty, wherever it is (see [[Lore - Wretches]]).
+
+---
+
+## ⚱️ Practice
+- **Featherfall** — the coast's common burial. Feathers on the grave and no words from the keeper. The mourners may speak once the keeper has gone.
+- **Last Rites.** Featherfall buries the dead; Last Rites settles them. Only a priest of the Veil can give the rite, and the Veil has fewer priests than graves. The rite can be given at the grave afterwards if the priest knows whose grave it is, which is the whole reason for the carved name, and for the Post-Walk.
+- **The Quiet Hour** — a citywide silence once a year. Even the Basin cranes stop, because the stevedores stop them. Nobody ordered it, and the Council could not.
+- **The Pauper's Procession** — the free mass burial of the Sunken Ward's unclaimed dead, carried out through the Slips to the pits beyond the wall. Free, always.
+- **The Long Carry** — into the Scar, where no lawful road runs: lay a Dust-Wretch down and carry the body out past the blight-line, to fire or dry earth. The Veil say every Carry finishes the work Maryn Aske went down to begin (see [[Duchy of Corvus]]).
+- **The Post-Walk** — a priest of the Veil and their acolytes, travelling the known world from grave to grave. Wherever a family buried its own without a keeper, the Post-Walkers give the rite at the graveside, write the name in the grave-book they carry, and cut **the feather-cut** into the post under the name: one slanting notch, like a falling feather. A Post-Walk can be gone for years. The Post-Walkers are fed at every door they pass, and the inland says it is bad luck to ask where they are going (see [[Lore - Hearth and Threshold]]).
+- **The grave-books.** Every burial is written down. They are the only count of the Un-Landed dead on the coast, and the Council has never asked to see them.
+
+---
+
+> **GM-facing — what answers.**
+> **The Quiet.** The Domain of Death is the remains of the Creator of **the turn**. The Sphere had no beginning and no end (see [[Cosmology - The Great Fracture]]); the Quiet was the still point where the eternal cycle closed and began again, the moment in which nothing happened so that everything could happen again. Then individuation came, and mortals died and **ceased to exist**. In the Naming they gave the turn the only name they had for the thing at the end of them: **Death**. The Quiet took the name, and for the first time it had endings to keep.
+> **It sided with the Alliance**, and for the same reason as the Mother — self-interest — but without her appetite. The Sphere never ended anything; the mortal world does little else (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
+> **What the current does:** it ends what is already ending, gently. A fever breaks, a fight goes out of a room, a fire sinks down, and a place's grip on a Wretch lets go. It does not kill.
+> **What it takes: nothing.** It is the only current on the coast that asks no price of its faithful — no years, no doubt, no warmth. The Quiet has never needed anything from anyone. It only waits — and it **keeps a place for its faithful**. A Veil-priest who leans on it too long finds the fight going out of them at odd moments, and walks with their own end a little nearer than other people's. Nothing is taken. Something is simply expected.
+> **The Long Carry** works, and the Veil are half right about why. What the Scar kept was the death, not the soul: the thirst and the choking. The soul went on its Going-Out in 8 A.A., like every other. The Carry ends the place's grip, and the Hungry Grave loses what it was holding. The Wretch stops being thirsty. **As for the dead going up:** some rise and some sink, each by its own weight. The Veil's own faithful do neither. The Quiet keeps them at the turn (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]).
+> **Vael** was real, and he is the oldest paragon on the coast: a grave-keeper of the aftermath of the War of Creation, who buried what it left. His signs came over the Broken Ocean with the settlers (see [[History - The Broken Crown of Austhal]]).
+> **The Martyr.** The Veil's unease about the Weeping Martyr's elders is the current's. Those elders are kept past their ending by the Mother, and the Quiet feels them the way a grave-keeper feels a grave dug too shallow. The Veil have never said why, because they do not know (see [[The Cult of the Weeping Martyr]]).
+> **The mote** is the irony: the death-cult is the one faith on the coast whose current takes nothing, and whose faithful do their work for nothing. And the grave-books they keep for nothing are what bring a pauper to the Plumb's measure whole (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]).
+
+---
+
+## 💰 Logistics & Economics (The Realism Anchor)
+- **Income:** burial fees. A guild box pays for its members' Featherfall (see [[Framework - The Guilds of Port Nevarellon]]), and the Landed pay for their own ground. The paupers are buried free.
+- **Expenses:** lime and labour for the pits; the Carry's litters and lamp-oil; boots for the Post-Walkers, which is all the Veil gives them; and feathers, bought by the sack from Gullstand under Gull Cape (see [[Duchy of Valerius]]).
+- **Assets:** the burial grounds beyond the landward wall, on ground nobody else has ever wanted; and the grave-books.
+
+---
+
+## ⚖️ Leverage & Power Dynamics
+- **Everyone dies.** The Veil hold no power over the living. But no guild, Syndicate or Duke wants the Veil to refuse its dead. The Veil never have, and that is why the threat holds.
+- **The Tidespoken** have no quarrel with them: the Veil carry Wretches out, and the Tongues' quarrel is with the marsh.
+- **The Weeping Martyr** makes them uneasy (see [[The Cult of the Weeping Martyr]]).
+- **The Corvus refugees** are theirs. Every Ash Vigil, a grave-keeper stands at the back, and says nothing.
+- **Vulnerabilities:** they are poor. The Long Carry kills grave-keepers, and the road kills Post-Walkers. And the Mute's succession — nobody outside the Veil knows how it is decided.
+
+---
+
+## 🧱 Layer & the Five Fields
+**Layer 3** — in every parish on the coast, and holding nothing in any of them.
+- **Chokepoint:** the dead. Every body on the coast that is not given to the ebb passes through Veil hands.
+- **Enforcement:** none, and none needed. Nobody wants their dead refused.
+- **Geographic anchor:** the burial grounds beyond the landward wall; Bittern's Ford, for the Carry.
+- **Bypass:** the ebb (the Tidespoken); the Boardwalk Wake in the Muddy Docks; the marsh-folk's pyres.
+- **Cost & Mote:**
+  - **The cost** is the grave-keepers the Carry takes, and a comfort that is wrong about where the dead go.
+  - **The mote** is Featherfall for everyone, free for paupers — and a Wretch that stops being thirsty.
+
+---
+
+## 🎲 Rules Flags (for when the ruleset is integrated)
+*Not carried over.*
+- **Ending effects:** breaking a fever, calming a fight, dampening a fire, laying a Wretch down. Where is the line between *ending what is already ending* and killing?
+- ~~**The Long Carry** against the Wretches' stat blocks: does a Wretch laid down where it died rise again, and when?~~ **Resolved** — it rises at the next Low Moons unless carried off its ground or given Last Rites (ruleset: Bestiary, *The Wretch*; GM Tools, *the Low Moons*).
+- ~~**No cost:** the Quiet's current takes nothing from the faithful. Check this against the balance of the other faiths' casting.~~ **Resolved 2026-10-11** — in the ruleset the Quiet's price is waiting, not taking (Domain Prices, *The Quiet Keeps a Place*).
+- ~~**Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.~~ **Resolved** — Faith is borrowed authority, paid for in the body (ruleset, Embracing the Abyss, *Faith*).
+
+---
+
+## ❓ Open Questions
+- The Mute's name, and how a Mute is chosen.
+- The date of the Quiet Hour (see [[Framework - The Coastal Reckoning]]).
+- How many keepers the Carry takes in a year.
+- **How far the Post-Walk goes.** Into Ubaraz, Twelgorn, the Kald? Who feeds a Veil priest where nobody has heard of Vael?
+
+## 🔗 Connected Notes
+- [[Religion - The Pagan Pantheon and the Faith Domains]] — the Domain and the paragon
+- [[Cosmology - The Celestial Graveyard and The war of Creation]] — the Quiet, among the Alliance (ground truth)
+- [[Lore - Wretches]] · [[Duchy of Corvus]] — the Long Carry
+- [[The Foundry Slips]] · [[The Sunken Ward]] — the Procession and the burial grounds
+- [[The Cult of the Weeping Martyr]] · [[The Tidespoken Clergy]]

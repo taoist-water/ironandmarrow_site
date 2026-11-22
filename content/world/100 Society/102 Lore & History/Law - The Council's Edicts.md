@@ -1,0 +1,71 @@
+# Law: The Council's Edicts (Class & Armament)
+#lore/law #lore/society #status/solid
+
+> "A sword in the hand of a man with no property is a rebellion. A sword in the hand of a man who owns a warehouse is an asset protection strategy." — a magistrate of the High Courts
+
+---
+
+## ⚖️ The Civic Divide: Landed vs. Un-Landed
+When the merchant cartels shattered the old kingdom, they abolished the divine right of kings and replaced it with the supremacy of commerce. Civic rights in [[Port Nevarellon|Port Nevarellon]] are now entirely dictated by property ownership.
+
+### The Landed Citizen
+To be "Landed" is to hold legal power. A citizen is only classified as Landed if they hold a physical, Council-stamped deed. This applies strictly to:
+1. **Commercial Real Estate:** Owning a warehouse, a storefront, or a high-quarter estate.
+2. **A Guild Charter:** Holding the registered paperwork for a recognized business — in practice a master's **shop charter** under a guild on the Council's Charter Roll (see [[Framework - The Guilds of Port Nevarellon]]).
+3. **A Deep-Water Keel:** Owning an ocean-going merchant vessel (a "floating freehold").
+
+### The Un-Landed Citizen
+Over 90% of the city's population—including the refugees in [[The Muddy Docks|The Muddy Docks]] and the [[000 Atlas/The Sunken Ward|Sunken Ward]]—are "Un-Landed." Because they rent their beds, work for wages, or lease their tools, they have no legal stake in the city.
+- **No Direct Representation:** An Un-Landed citizen cannot sue or press charges in the High Courts. They must convince a Landed Guild-Master to sponsor their grievance (usually framed as "damage to the Master's labor force").
+- **Vagrancy Tolls:** They are legally considered "guests" on city-owned stones and are subject to arbitrary gate-tolls to enter wealthier districts.
+
+---
+
+## 🗡️ The Edicts of Armament
+Because Un-Landed citizens have no property to defend, the Council deems any martial weapon in their hands a direct threat to the city's stability. The Golden Company enforces five strict laws to maintain a monopoly on violence.
+
+### 1. The Palm-Length Edict (The Tool Loophole)
+No Un-Landed citizen may carry a fixed or folding blade longer than the width of a [[100 Society/The Golden Company|Golden Company]] guardsman's palm (roughly four inches). 
+- **The Reality:** This allows butchers, riggers, and fishers to carry the small knives required for their labor. Anything longer is classified as a murder weapon, punishable by the immediate amputation of a hand.
+
+### 2. Contextual Carry (Guild Confinement)
+Tools of the trade (cleavers, harpoons, logging axes, heavy iron hooks) may only be carried while actively performing the trade or traveling directly to the worksite.
+- **The Reality:** Carrying a whaling harpoon on the docks is legal. Carrying that same harpoon into a tavern or a residential alley is legally reclassified as "Sedition," resulting in immediate arrest or execution.
+
+### 3. The Peace-Bond Tax (Financial Gatekeeping)
+Landed citizens are permitted to own martial weapons (longswords, rapiers, heavy crossbows), but they must purchase a **Golden Writ**. 
+- **The Reality:** A city blacksmith wraps the weapon's crossguard to its scabbard with a thick copper wire and seals it with heavy red wax. If the wax is broken, the citizen must prove in court it was broken in self-defense. The writ costs more than a dockworker makes in a year.
+
+### 4. The High-Steel Monopoly
+By decree of the Council and [[Tythius De Vonce|Duke Tythius De Vonce]], only sworn mercenaries, nobles, and sanctioned guild-masters may purchase refined "High-Steel."
+- **The Reality:** The lower classes are restricted to tools forged from cheap cast-iron or reclaimed ship's bronze. If an Un-Landed citizen tries to parry a Golden Company halberd, their brittle weapon will instantly shatter.
+
+### 5. The Powder Edict
+Black powder is a controlled substance in Port Nevarellon, as it is in most realms that trade with it. The secret of its making belongs to the [[The Guild of Alchemists|Guild of Alchemists]], and every legal measure of it in the city is issued, logged and inspected by the Guild's Port Nevarellon chapter.
+- **The Reality:** A firearm is a weapon for the very wealthy or the very important, and the law is written to keep it that way. A pistol is a martial weapon and requires a Golden Writ — the copper wire and red wax are threaded through the trigger-guard — but the Writ alone is not enough: its charges must be drawn under a Guild licence in the bearer's name. A Landed citizen caught with unlicensed powder is fined and quietly embarrassed. An Un-Landed citizen caught with powder — not a pistol, merely the powder — is presumed to be supplying someone, and is treated as a seditionist until he names them.
+
+---
+
+## ⛓️ Bonded Labour: The Coast's Answer to Slavery
+**Chattel slavery is not recognised on the Whispering Coast.** Twelgorn ownership papers name a polity no coastal register lists, so they have no force here: a slave who reaches the coast is, on paper, a free Un-Landed person with nothing. What the coast has instead is **indenture** — slavery by another name, transactional and bureaucratic, and every instrument of it lodged with the Council and counter-copied in the Register.
+
+### 1. The Debt-Bond
+Unpaid debt converts to service. The debtor labours for the creditor until the bond is discharged, while board, lodging and tools are charged against the wage.
+- **The Reality:** Most bonds never close. Courts impose them in place of the debt-prisons, and employers engineer them on purpose — the Syndicate's synthetic debts on the slips, and the salt-pans of [[Duchy of Valerius|Valerius]], where the gangs keep a Crock to buy one bond out a year (see [[Bond-Master Tallis Gorrius]]).
+
+### 2. The Bond of Service
+A contract to serve a Landed patron for a fixed term. The patron houses, feeds and protects the bondsman, and stands as their sponsor in the High Courts. The bondsman surrenders freedom of movement, trade and marriage for the term.
+- **The Reality:** Among the highborn, a household of bondsmen is a mark of status. For the desperate it is a roof and a patron. The catch is the sponsorship: a bondsman's only route to the High Courts runs through the patron they would be complaining about.
+
+**The Mote.** A bond is an instrument, and the [[The Cult of the Zenith|Cult of the Zenith]] can void an instrument signed under duress or never properly lodged — though it can never confirm one. An Arbiter who reads closely can free a bondsman. The Un-Landed know which Arbiters those are.
+
+**The Hook.** Southerners who come out of the marsh at Fenmouth are met with a Bond of Service to sign before they reach the city.
+
+---
+
+## ⚓ The Syndicate Loophole (Realism Anchor)
+This hyper-bureaucratic system is exactly why the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] is so difficult to eradicate. 
+
+[[Garrick the Keelhauler|Garrick the Keelhauler]] uses shell companies and bribes to hold the legal deeds to rotting warehouses and taverns — among them a deed to The Shades, a hull the [[The Dolly Sisters|Dolly Sisters]] hold a Council-stamped deed to as well. Neither side has taken the question to the [[The Cult of the Zenith|Cult of the Zenith]], and neither will: the Court of Nullity could void both deeds and could never confirm either. Therefore, in the eyes of the law, **Garrick is a Landed Citizen**. He has the legal right to purchase Peace-Bonds, hire private security, and demand court hearings, using the Council's own laws as a shield against the Golden Company. 
+
+Conversely, violent upstarts like [[Silas Bane|Silas Bane]] are completely Un-Landed. They operate entirely in the shadows because if caught by the watch, they have zero legal protections and are executed in the street.

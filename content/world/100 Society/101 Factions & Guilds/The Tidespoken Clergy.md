@@ -1,0 +1,123 @@
+# Faction: The Tidespoken Clergy
+#faction/legal #lore/religion #status/draft
+
+> "Everything moves. Everything is taken in its turn." — the Tidespoken teaching
+
+> "The Tongues'll feed you today and burn your neighbour tomorrow, and say the same prayer over both." — Nell Stroud, cookshop widow
+
+---
+
+## 🏛️ Overview
+- **Domain:** Sea & Storms (see [[Religion - The Pagan Pantheon and the Faith Domains]]).
+- **Street Names:** the Tongues (the priests), the Salt (the faithful).
+- **Type:** A dockside clergy with soup kitchens, tide-tables and fire.
+- **Base:** the lower piers of [[The Muddy Docks]] and the **Sea-Wall**. The faith runs Ward-wide — it is the closest thing [[The Sunken Ward]] has to a unifying presence — but its reach thins in Cinder Row.
+- **Leader:** **the Eldest Tongue** *(name to be set)*. There is no elected or appointed head. The longest-serving Tongue speaks for the clergy until the sea takes them.
+
+---
+
+## 🌊 The Faith
+- **The Brine Mother.** The ocean, and the true sovereign of the world. To the Tongues she is alive, she is listening, and she is owed. She does not answer as a person answers. **She takes, in turn** — and when a Tongue invokes Thalass, the sea comes. No Tongue has ever needed better proof than that.
+- **The teaching.** *Everything moves; everything is taken by the tide in its turn.* Wealth, ships, kings, the drowned and the living. Every practice of the clergy — the generous ones and the cruel ones — comes from this one teaching.
+- **The paragon: Thalass's Omen.** Thalass was not a person but a rogue wave that destroyed an entire fleet of the old king's armada. A Tongue casts by invoking the wave's deed, as other priests invoke a saint's.
+- **The Drowned Lamp.** The green, 40-day moon (*Ossuel*) is the clergy's moon. Its rhythm governs the tides, and the Tongues reckon their tables from it. They have never forgiven the Council's clerks for building the civil year on the Pale Sister instead (see [[Framework - The Coastal Reckoning]]).
+
+> **GM-facing — what answers.**
+> **The Ebb.** The Brine Mother is no god. What answers a Tongue is the Domain of Sea & Storms: the remains of the Creator of **the going-out**. In the Sphere it carried every thing away from where it had been, toward the turn, so the cycle could bring it round again. Individuation broke the other half — things went out and did not come back — and the Ebb became the one current that always wins (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
+> **It sided with the Alliance**, for that and for its quarrel with the Unmoving, which wanted nothing ever to go anywhere again. It answers the Tongues as a sea because the people who prayed to it lived beside one. The current has no face and is not listening. The face the Tongues gave it is another matter: it rose as the Brine Mother, the Ebb's Reach share, and she does listen, the way a hope listens (see [[Cosmology - The Celestial Graveyard and The war of Creation#🌗 The Three Shares|The Three Shares]]). The miracles are real; the Mother is the Tidespoken's explanation of them.
+> **What the current does.** It moves things on — a wave, a storm, a hull off a sandbar, a body out past the Sea-Wall. It does not destroy for its own sake. It carries.
+> **Why the Tongues hate still water.** The fey are essence that pooled where the Ebb could not reach: a hag is the thing that got away from it. A Wretch is a place refusing to let it take its dead. The Tidespoken doctrine is the current's own grudge, worn as faith.
+> **What it takes: whatever you hold.** A devotee's grip loosens — on coin, then title, then a home, then people. Nothing is stolen; it drifts. Old Tongues own nothing and are close to no one, and the Eldest speaks until the sea takes them because, in the end, they walk into it. The clergy's refusal of title is not a vow. It is the current, and the vow came after.
+> **The river of the dead.** The Ebb's Run is also the ferry of the Going-Out: every soul goes out on it and pays it whatever it holds. The Tongues give their drowned to the ebb, and are closer to right than anyone on the coast. **The Count** is a record the Plumb measures against: nobody named from the Sea-Wall comes to the measure less than they were (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]).
+> **The mote.** What slips from a Tongue's hands goes somewhere, and it goes in the pot. The kitchens are the current's price turned into bread: the clergy cannot keep anything, so they feed people with it.
+
+### Thalass: the wave that broke the crown
+The Tidespoken are older than the Accord, a sailors' faith of the Drowned Lamp. Thalass is what made them the faith of the Docks.
+
+In the last year of the Civil War, a fleet of the King's armada sortied from Port Nevarellon against [[The Golden Company]]'s blockade. It met the wave at the harbour mouth and did not come back. The Company rode the swell out at sea and took the city that season. Anyone over about sixty-five remembers the wave.
+
+- **The Council's version:** the Company and the ledger broke the crown — "a merchant's ledger sealing his grave", as the Council's own toast puts it.
+- **The Tidespoken version:** *the sea broke the crown, and the Company walked in through the door she opened.* The King-Ban is the sea's law first: no mortal may be King because the Brine Mother already is.
+- **The hulks.** The Tongues say the oldest hulks in the Muddy Docks are the King's ships, thrown up onto the mudflats by Thalass.
+
+> **GM-facing.** By the 840-day cycle, a Low Moons fell in the last year of the war (see [[Framework - The Coastal Reckoning]]). The Guild of Alchemists' tables say the moons dragged the tide. The Tidespoken say the sea chose. Both may be true, and neither side will ever say so.
+
+---
+
+## 🍲 Practice
+- **The kitchens.** Soup kitchens on the lower piers, fed by **the Mother's share** — one fish from every boat that lands at a Tidespoken pier. Nobody owns anything for keeps, so feeding the poor is just moving it along.
+- **The kitchen-truce.** No blade is drawn within sight of the pot. That is the "fragile peace between the gangs": every gang's hungry eat at the same kitchens.
+- **The tide-tables and the warning.** The Lamp-Readers watch the Drowned Lamp from the Sea-Wall and keep the tide-tables that every harbour pilot uses. Before each Low Moons they shout the warning from the Sea-Wall for free. The [[The Guild of Alchemists|Guild]] sells its tables; the Docks are warned at all only because the Tidespoken give theirs away.
+- **The rites:**
+  - **Thalass's Count** — the year's drowned named aloud from the Sea-Wall. Nobody the sea takes goes unnamed.
+  - **The Wave-Naming** — a destructive storm is formally named, and so acknowledged as sovereign.
+  - **Salt-Tongue** — a keel-blessing. Shipwrights pay for it whether they believe or not, including [[Marcian Thole]]'s yards.
+- **Burial.** The dead are given to the ebb past the Sea-Wall, into water that moves. Nothing quickens in moving water, and nothing there can *keep* them. This is the Tidespoken answer to the Wretch (see [[Lore - Wretches]]). Marsh-folk burn their dead, and the Ashen Veil gives them to dry earth.
+
+---
+
+## 🔥 What the Tide Must Take
+The teaching that feeds the Docks also lights the pyres. Anything that **refuses the tide** is an abomination:
+- **Hags** — to the Tongues, things born of water that refused to move, which then work the Undertow into living flesh. The Tidespoken hunt them, and the **Low Moons** are their season: the only nights a hag is out of her ground and on the move (see [[Lore - Hags]]).
+- **The hag-made.** Anything shaped from Undertow wrack belongs to the Undertow. Anyone a hag has worked on is a little fey afterwards, and the Tongues burn them. They want [[Morgran the Abomination|Morgran]] burned, and the hag who made him burned first.
+- **The changed.** Flesh the wrack has rewritten with no hag's help: a wrack-carrier's hooked hands, gills on a De Vonce farm boy, a child born wrong. To the Tongues it is the Undertow taking a body from the inside, and they do not ask which wrack did it. They hunt the changed the way they hunt hags, and lately they have taken the hunt out of the Docks and up the Road into De Vonce (see [[Duchy of De Vonce]]).
+- **Wretches** — a place refusing to give up its dead. The Tongues have no quarrel with the Ashen Veil, which carries Wretches out; they quarrel with the marsh.
+- **The Weeping Martyr's elders** — priests who will not age refuse the tide as surely as a hag does. The Tongues say so from the Sea-Wall; the Weepers heal half the Docks, so they do not say it loudly (see [[The Cult of the Weeping Martyr]]).
+
+**Who they burn is a matter of reach, not doctrine.** The Guild of Alchemists works Undertow-touched stock every day (Brine-Fire among it), and its masters are Landed, licensed and guarded by Searchers. The Tongues preach against it from the Sea-Wall and have never lit a pyre under an alchemist. They burn marsh-folk.
+
+---
+
+## 💰 Logistics & Economics (The Realism Anchor)
+- **Income:** the Mother's share; Salt-Tongue fees; alms from sailors before a voyage; a quiet stipend from captains who would rather the pilots' tables stayed accurate.
+- **Expenses:** the kitchens, the Sea-Wall watch, boats and pitch for the Low Moons hunts.
+- **Assets:** the tide-tables, and the trust of every harbour pilot. No deeds — the clergy hold no title on principle, and so no Tongue is Landed.
+
+---
+
+## ⚖️ Leverage & Power Dynamics
+- **The pilots' dependence.** The [[The Iron-Anchor Syndicate|Iron-Anchor]]'s monopoly is its pilot-boats, and the pilot-boats run on Tidespoken tables. The Syndicate hates the kitchens that cost it recruits, but it cannot afford the clergy's silence.
+- **The Council tolerates them.** The kitchens are cheaper than riots, and every keel in the Basin needs the tables.
+- **The Register's opposite.** The [[The Cult of the Zenith|Zenith]] keeps paper that is meant to last forever. The Tongues teach that everything is taken in its turn, and the Docks hear it as *deeds too*. The Zenith has never been able to claim the calendar; the Tidespoken already hold the half of it that pilots actually use.
+- **Vulnerabilities:**
+  - They hold no title, so no Tongue can sue, sponsor or own.
+  - Their burnings are crimes the Council has chosen not to see, and that choice can change.
+  - Their hunting season is also the Golden Company's Lantern Watch, when the gates close.
+
+---
+
+## 🗓️ 59 A.A.
+The next Opening-season Low Moons (~59 A.A.) falls on everything at once:
+- the hags uproot, and the Tidespoken go hunting;
+- the bound god of [[The Twelgorn Kingdom|Tuwal Ghorun]] makes its move;
+- the Guild of Alchemists already knows the date, and has told no one.
+
+The Tidespoken will be on the Sea-Wall shouting the warning, free, to anyone who will listen. They may be the only ones who tell the Docks.
+
+---
+
+## 🧱 Layer & the Five Fields
+**Layer 3** in Port Nevarellon, with a hand on a Layer 1 chokepoint: half the calendar. The faith runs along the whole coast; its presence outside the city is for the Duchy pass.
+- **Chokepoint:** the tide-tables — every harbour pilot, the Syndicate's included.
+- **Enforcement:** bread and fire. The kitchen line's loyalty; the pyre.
+- **Geographic anchor:** the Sea-Wall watch and the lower-pier kitchens.
+- **Bypass:** the Guild's paid tables; the Council's turn-roll; hunger in Cinder Row, beyond the kitchens' reach.
+- **Cost & Mote:** The cost is the pyres, and a doctrine that burns whom it can reach rather than whom it condemns. The mote is the kitchens, the free warning, and the Count — in Port Nevarellon, nobody the sea takes goes unnamed.
+
+> *Crunch exists — the Domain of Sea & Storms in the Iron & Marrow ruleset (Thalass's Omen, the Tidal Undertow Domain Tag).*
+
+---
+
+## ❓ Open Questions
+- The Eldest Tongue's name.
+- The faith along the coast: the Shield Atolls, Fenmouth. *(Valerius's bays: kitchens at Brinewick and Netherquay, and the fog bell at Saltmere — see [[Duchy of Valerius]].)*
+- Does a Tongue at Fenmouth know that Morgran carries the marsh's dead out in his skiff — and does it change anything?
+- Were the Docks' oldest hulks really the King's armada?
+
+## 🔗 Connected Notes
+- [[Religion - The Pagan Pantheon and the Faith Domains]] — the Domain and Thalass's Omen
+- [[Framework - The Coastal Reckoning]] — the Drowned Lamp; who owns the calendar; the Low Moons
+- [[Lore - Hags]] · [[Lore - Wretches]] · [[Morgran the Abomination]] — what the tide must take
+- [[The Muddy Docks]] · [[The Sunken Ward]] · [[The Iron-Anchor Syndicate]] — the kitchens and the pilots
+- [[The Guild of Alchemists]] · [[The Cult of the Zenith]] · [[Council of Five]] — rivals for the calendar and the city
+- [[History - The Broken Crown of Austhal]] — the Civil War

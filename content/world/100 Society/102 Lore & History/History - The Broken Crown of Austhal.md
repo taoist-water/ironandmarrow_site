@@ -1,0 +1,65 @@
+# History: The Broken Crown of Austhal & The Ducal Accord
+#lore/history #lore/politics #status/solid
+
+> "Let the stone seats of the old palaces grow moss. If a man in the Whispering Coast calls himself King again, he will find the Golden Company at his throat and a merchant's ledger sealing his grave." — Traditional Toast of the Council of Five
+
+---
+
+## 🗺️ The Continental Scope: Austhal
+The known world for the mortal races in this sector of the Infinite Disk is the vast continent of **Austhal**. 
+To the people of Austhal, the deep past is ruins, bones and rumour.
+
+> **GM-facing.** Centuries have passed since the breaking of the cosmic sphere. The truth of the deicide, the shattering of the Sphere into the Tideways, and the cosmic war has completely faded out of mortal memory. Today that ancient era exists only as unmapped ruins, petrified bones deep in the earth, and fragmented lore pieced together by fringe philosophers, explorers, and radical religious sects.
+
+---
+
+## 🛡️ The Age of the Kingdom (The Founding)
+Generations ago, the region known as **The Whispering Coast** was claimed by a wave of aristocratic settler families fleeing a decaying empire across the Broken Ocean. The coast does not speak the empire's name. What is left of it is a single city that still trades — **the Fourth**, the Struck City, which the Register no longer counts (see [[Reference - The Wondrous Markets]]). The *Meditations on Law* that the [[The Cult of the Zenith|Zenith]] keeps came over with the settlers; so did Rook's Folly, the forger the [[The Cult of the Crooked Coin|Crooked Coin]] says broke the empire's treasury.
+
+1. **The Crown:** To consolidate power and survive the wilderness, a King was chosen from among the settlers.
+2. **The Five Dukes:** The five primary founding families were granted the hereditary titles of Dukes. Together with the King, they launched bloody campaigns to tame the wild coast and secure its borders.
+3. **The Historical Borders:** The early kingdom successfully suppressed the wild inland, locking down the region between the sea and three unyielding geographical boundaries:
+   - **The North:** The treacherous peaks of [[The Jagged Spine|The Jagged Spine Range]] — and deep in the range, at the head of the Corvus valley, the dwarven realm of [[Ubaraz Kingdom|The Ubaraz Kingdom]], dug into its mountain halls.
+   - **The West:** The [[The Kald Mountain Territory|Kald Mountains]], across the wild inland from the farthest Aerthos plough.
+   - **The South:** The toxic, waterlogged expanse of [[Silted Marshes|The Silted Marshes]].
+
+---
+
+## 🔨 The Civil War & The Mercenary Solution
+The stability lasted for generations until a brutal, tyrannical line of kings pushed the five founding Ducal families into open rebellion. The resulting civil war was long, economically ruinous, and exhausting.
+
+- **The Trade Leverage:** Seeing their profits destroyed by the endless war, the rising merchant and trade families of the city of Port Nevarellon took matters into their own hands. They pooled their wealth and sailed to a distant continental power to hire **The Golden Company**—a legendary, hyper-professional mercenary army.
+- **The Seat Falls:** The Golden Company blockaded and assaulted the royal seat at Port Nevarellon. During the chaos, a local folk hero, heavily financed and backed by the merchant cartel, breached the inner sanctum and slew the King.
+- **The Traitor's Flight:** The merchants systematically executed or bought off the King's remaining heirs—or so they believed. In secret, several of the King's children fled south through the deadly hazards of the Silted Marshes with a remnant of royal loyalists, carrying whatever wealth two nights and a river barge could hold. They founded nothing. They *bought* sanctuary in the **[[The Twelgorn Kingdom|Twelgorn Kingdom]]**—an old, powerful slaving realm that had stood on the far southern coast for centuries before the Whispering Coast was ever settled. The sitting King of Twelgorn took their gold, weighed what else they might one day be worth, and granted them the status of honoured "guests."
+
+---
+
+## 📜 The Current Era: The Free City State & The Ducal Accord
+With the royal line broken and the crown physically smashed, the mercantile interests reshaped the entire political landscape of the coast into its current form:
+						[ THE DUCAL ACCORD ]
+								|
+		+--------------------------------------------------------------------------------+
+		|                                                                                                          |
+	   [ PORT NEVARELLON ]                                 [ THE FIVE DUKEDOMS ]
+
+- Free City-State                                                             - Five ancestral lands
+    
+- Governed by Council of Five                                    - Governed as personal kingdoms
+    
+- Enforced by Golden Company                                 - Banned from using the title "King"                                                   
+
+1. **The 99-Year Contract:** The merchant families signed a massive, binding 99-year contract with **The Golden Company**. The mercenaries were granted a permanent military monopoly over the city, acting as its standing army and elite enforcers. 
+2. **The Council of Five:** Port Nevarellon was declared a Free City-State, completely sovereign from the nobility, governed entirely by a board of directors chosen from the richest trade families—the **Council of Five**. 
+3. **The Sovereign Dukes:** Under the negotiated **Ducal Accord**, the five Dukes abandoned their claims to the city and retreated to their respective ancestral lands, running them as personal, independent micro-kingdoms. 
+4. **The Ultimate Law:** The absolute, unshakeable law of the Accord dictates that **no mortal may ever hold or claim the moniker of "King"** within the boundaries of the Whispering Coast again. --- 
+## ⚓ The Realism-Fantasy Intersect 
+### 1. The Mercenary State Balance 
+Because the city is enforced by the Golden Company under a 99-year lease, the **Blue-Cloak Watch** of the lower districts are subordinates or cheap local recruits overseen by this elite foreign mercenary corporation. The Golden Company doesn't care about street-level crime in the docks; they care about tax revenue, harbor defense, and making sure the contract is paid on time. 
+### 2. The Golden Company vs. The Syndicate 
+**Garrick the Keelhauler** wants to turn his Syndicate into a legitimate "Maritime Logistics Guild." A new guild charter needs four of five councillors (see [[Framework - The Guilds of Port Nevarellon]]), and he also has to wait out or corrupt the Golden Company's contract, because a hyper-professional mercenary army cannot be easily intimidated by common dockyard thugs. Meanwhile, **Silas Bane**'s violent chaos risks bringing the full, lethal weight of the Golden Company down on the Muddy Docks. 
+### 3. The Threat from the South: The Twelgorn Kingdom
+**A note on the name.** *Twelgorn* is the coast's word for it — a Whispering Coast mouthful worn down from the kingdom's own name, **Tuwal Ghorun**, which is what its people, its rulers and its documents call it. Tuwal Ghorun is also the name of the god the kingdom keeps; the realm is named for it. Its ruler's title, *the Al Ghorun*, carries no gender, and the coast simply translates it as "King". No coastal register lists Tuwal Ghorun. An instrument written in the south therefore names a polity the Register cannot match to anything, and it can be neither enforced nor condemned on the coast. That is the **identity void**. [[Palla Vantry]]'s houses have moved southern goods through it for decades, and it is the same gap that makes a Retriever's warrant unenforceable in [[Divtown]].
+
+Nearly six decades on, the exiled bloodline still lives in Twelgorn as permanent "guests" of its King—a courtesy that curdled into custody somewhere across the generations, without anyone needing to say so aloud. They have no army, no treasury, and no realm. What they have is a claim to the Whispering Coast, and that claim is no longer meaningfully theirs. It is an asset in a foreign King's strongroom, to be shelved, married off, or brandished entirely at his convenience.
+
+That makes the danger something colder than a restoration. If Twelgorn ever moves north through the Silted Marshes, it will not be a lost dynasty coming home—it will be a war of conquest wearing a legitimacy costume, with a compliant claimant somewhere back in the baggage train. The Ducal Accord shatters either way, forcing the five independent Dukes and the greedy Council of Five to decide whether they hate each other more than they fear a King handed down to them by someone else.
