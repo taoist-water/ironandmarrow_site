@@ -26,18 +26,23 @@ STEP 2 — Copy the vault folders into the site
 Tip: add -n after -av (e.g. rsync -avn ...) for a dry run that lists what
 would change without copying anything.
 
-# World (Atlas, Society, Cast, Meta) -> content/world/
+# Main vault (000 Atlas ... 400 Meta, incl. 300 rules) -> top level of content/
+# The site mirrors the vault's folder layout so full-path wikilinks
+# like [[000 Atlas/.../Duchy of Devonce]] resolve correctly.
+# The /index.md, /images/ and /arena/ excludes PROTECT those site-only
+# items from --delete. Do not remove them.
 rsync -av --delete \
+  --exclude='/index.md' \
+  --exclude='/images/' \
+  --exclude='/arena/' \
   --exclude='_Home.md' \
   --exclude='iron and marrow canon tracker.md' \
   --exclude='.obsidian/' \
-  --exclude='300*/' \
-  "$HOME/Documents/1_Campaign_Port_Nevarellon/Adventures_Port_Nevarellon/" content/world/
+  --exclude='.git/' \
+  "$HOME/Documents/1_Campaign_Port_Nevarellon/Adventures_Port_Nevarellon/" content/
 
-# Core rules (300 Iron and Marrow Master rules) -> content/rules/
-rsync -av --delete \
-  "$HOME/Documents/1_Campaign_Port_Nevarellon/Adventures_Port_Nevarellon/"300*/ \
-  content/rules/
+CHECK (dry run with -avn): any "deleting" lines must NOT mention
+index.md, images/ or arena/.
 
 # Arena combat game (~/Arena_combat_game) -> content/arena/Arena_combat_game/
 # No trailing slash after Arena_combat_game — keeps the folder name on the site.
@@ -46,7 +51,9 @@ rsync -av --delete \
   "$HOME/Arena_combat_game" \
   content/arena/
 
-CHECK: ls content/  ->  arena  images  index.md  rules  world
+CHECK: ls content/  ->  000 Atlas  100 Society  200 Cast
+                        300 Iron and Marrow Master rules  400 Meta
+                        arena  images  index.md
 
 
 STEP 3 — Preview locally (optional but recommended)
