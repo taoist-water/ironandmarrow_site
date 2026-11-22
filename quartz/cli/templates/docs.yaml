@@ -3,7 +3,7 @@
 # A documentation site: the default setup with sidebars that scroll away with the page
 # (layout.sidebars: static), so long navigation and tables of contents are never cut off.
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Iron & Marrow
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
