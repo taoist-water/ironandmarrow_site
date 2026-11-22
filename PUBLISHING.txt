@@ -1,0 +1,89 @@
+IRON & MARROW — PUBLISHING PIPELINE
+Vault (Obsidian)  ->  site folder  ->  GitHub  ->  ironandmarrow.online
+=====================================================================
+
+WHAT THIS DOES
+--------------
+Your vault is never published directly. Each update copies chosen folders
+from the vault into the site folder (~/iron-marrow-site/content/), then
+pushes the site folder to GitHub, which rebuilds the website automatically.
+
+  Vault:  ~/Documents/1_Campaign_Port_Nevarellon
+  Site:   ~/iron-marrow-site
+  Repo:   https://github.com/taoist-water/ironandmarrow_site
+  Live:   https://ironandmarrow.online
+
+The vault is only ever READ. Nothing here writes to it.
+
+
+STEP 1 — Go to the site folder
+------------------------------
+cd ~/iron-marrow-site
+
+
+STEP 2 — Copy the vault folders into the site
+---------------------------------------------
+Tip: add -n after -av (e.g. rsync -avn ...) for a dry run that lists what
+would change without copying anything.
+
+# World (Atlas, Society, Cast, Meta) -> content/world/
+rsync -av --delete \
+  --exclude='_Home.md' \
+  --exclude='iron and marrow canon tracker.md' \
+  --exclude='.obsidian/' \
+  --exclude='300*/' \
+  "$HOME/Documents/1_Campaign_Port_Nevarellon/Adventures_Port_Nevarellon/" content/world/
+
+# Core rules (300 Iron and Marrow Master rules) -> content/rules/
+rsync -av --delete \
+  "$HOME/Documents/1_Campaign_Port_Nevarellon/Adventures_Port_Nevarellon/"300*/ \
+  content/rules/
+
+# Arena combat game (~/Arena_combat_game) -> content/arena/Arena_combat_game/
+# No trailing slash after Arena_combat_game — keeps the folder name on the site.
+rsync -av --delete \
+  --exclude='.obsidian/' \
+  "$HOME/Arena_combat_game" \
+  content/arena/
+
+CHECK: ls content/  ->  arena  images  index.md  rules  world
+
+
+STEP 3 — Preview locally (optional but recommended)
+---------------------------------------------------
+npx quartz build --serve
+
+Open http://localhost:8080, click around, then Ctrl+C to stop.
+
+
+STEP 4 — Publish
+----------------
+npx quartz sync
+
+CHECK: https://github.com/taoist-water/ironandmarrow_site/actions
+       -> newest "Deploy Quartz site to GitHub Pages" run goes green (1–3 min)
+CHECK: https://ironandmarrow.online  -> Ctrl+Shift+R  -> changes visible
+
+
+FILES THAT LIVE ONLY IN THE SITE FOLDER (rsync never touches these)
+-------------------------------------------------------------------
+content/index.md      Landing page — edit directly, then run Step 4
+content/images/       Landing page images (e.g. banner.jpg)
+
+
+ADDING A NEW VAULT FOLDER TO THE SITE
+-------------------------------------
+Copy one of the rsync commands in Step 2, change the source path and the
+content/<section>/ destination. Trailing slash on the source = copy the
+folder's contents; no trailing slash = copy the folder itself.
+
+
+IF SOMETHING GOES WRONG
+-----------------------
+- Actions run is red        -> click it, read the error under the red job
+- Site shows old content    -> Ctrl+Shift+R (browser cache)
+- Links 404                 -> baseUrl must be exactly: ironandmarrow.online
+                               grep -rn "baseUrl" . --exclude-dir=node_modules --exclude-dir=.git
+- "not tracked by git" warnings during preview -> harmless, cleared by Step 4
+- Dependabot / extra workflow files reappear after a Quartz update
+                            -> keep only .github/workflows/deploy.yml
