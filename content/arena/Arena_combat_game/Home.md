@@ -19,6 +19,11 @@ Built from SAGA (combat, Fatigue), Warhammer Underworlds (hex board, small warba
 8. [[Fighters and Warbands]]
 9. [[Scoring and Victory]]
 
+## Drafts and downloads
+- [[Drafts]]: Creeds, Mounts, Campaign Ideas and the Codex Fork (optional layers, not yet in the core rules)
+- [[Downloads]]: print PDFs for the rules, cards and 52 mm map
+- [[Changelog]]: every revision, v0.1 to v0.16
+
 ## Development
 - [[Playtest Plan]]: known risks and the first four tests
 - [[Decision Log]]: what is settled, what is still a draft
